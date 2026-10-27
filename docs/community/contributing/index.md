@@ -14,6 +14,15 @@ Read the [general contribution guidelines](reference/general-guidelines.md) for 
 
 Identify the version your change targets and use the [contribution checklist](reference/checklist.md) to complete the required checks.
 
+Set up the accounts and tools first, then follow the review workflow:
+
+- [Get a Linux Foundation account](reference/linux-foundation-account.md): create your LF ID and configure Gerrit for SSH.
+- [Code contribution guidelines](reference/code-guidelines.md): requirements for a well-formed change.
+- [Gerrit recommended practices](reference/gerrit-practices.md): commit messages, topic branches, rebasing, and logs.
+- [Review changes](reference/review-changes.md): follow incoming and outgoing reviews in Gerrit.
+- [Track work in Jira](reference/jira.md): follow work items on the community roadmap.
+- [AI coding assistants](reference/ai-coding-assistants.md): rules for contributions made with AI assistance.
+
 ## Improve the documentation
 
 Use [Contribute to the documentation](reference/documentation.md) to edit this GitHub Pages site, preview it with MkDocs and Material, run the structure and link validators, and submit a pull request. For changes intended for the original AGL documentation, follow the [upstream Gerrit workflow](reference/documentation.md#contribute-to-the-original-agl-documentation).
