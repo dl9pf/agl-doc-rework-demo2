@@ -1,10 +1,10 @@
 ---
-title: Contribution gide
+title: Contribution guide
 agl_branch: master
 last_reviewed: '2026-10-10'
 ---
 
-# Contribution gide
+# Contribution guide
 
 You can participate in AGL through code, documentation, and bug reports. Choose the guide that matches the contribution you want to make.
 
